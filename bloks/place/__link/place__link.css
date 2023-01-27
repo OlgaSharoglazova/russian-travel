@@ -4,3 +4,9 @@
   line-height: 22px;
   color: white;
 }
+
+.place__link:hover {
+  cursor: url(../../../images/Cursor/Pointer.png), pointer;
+  width: 13.85px;
+  height: 17px;
+}

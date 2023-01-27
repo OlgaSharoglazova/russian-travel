@@ -1,0 +1,11 @@
+.cover__link {
+  text-decoration: none;
+  background-color: rgba(42, 44, 47, 0.3);
+  display: block;
+  max-width: 1184px;
+  height: 740px;
+}
+
+.cover__link:hover {
+  background-color: rgba(42, 44, 47, 0.8);
+}
