@@ -6,7 +6,11 @@
 }
 
 .place__link:hover {
-  cursor: url(../../../images/Cursor/Pointer.png), pointer;
-  width: 13.85px;
-  height: 17px;
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 320px) {
+  .place__link {
+    margin-left: 16px;
+  }
 }
