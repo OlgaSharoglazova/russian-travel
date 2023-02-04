@@ -7,20 +7,20 @@
 
 @media screen and (max-width: 1024px) {
   .places {
-    /*max-width: 928px;*/
+    max-width: 928px;
   }
 }
 
 @media screen and (max-width: 800px) {
   .places {
-    /*max-width: 720px;*/
+    max-width: 720px;
     row-gap: 73px;
   }
 }
 
 @media screen and (max-width: 400px) {
   .places {
-    /*max-width: 320px;*/
+    max-width: 320px;
     row-gap: 50px;
   }
 }
